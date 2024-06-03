@@ -1,0 +1,23 @@
+**Qual é a distribuição da pontuação de crédito (CreditScore) dos clientes? 
+
+**Como a idade (Age) dos clientes se distribui no conjunto de dados? Existe uma faixa etária predominante entre os clientes?
+
+**Qual é a média e a dispersão do tempo de posse (Tenure) dos clientes? Existe uma relação entre o tempo de posse e outras variáveis, como o saldo na conta (Balance) ou o número de produtos (NumOfProducts)?
+
+**Como é a distribuição do saldo na conta (Balance) entre os clientes? Existem clientes com saldos muito altos ou negativos?
+
+**Qual é a distribuição do número de produtos (NumOfProducts) que os clientes possuem? A maioria dos clientes possui apenas um produto ou há clientes com múltiplos produtos?
+
+**Qual é a proporção de clientes que possuem cartão de crédito (HasCrCard)? Existem diferenças significativas entre clientes com e sem cartão de crédito em termos de outras variáveis?
+
+**Quantos clientes estão ativos (IsActiveMember)? Qual é a relação entre clientes ativos e aqueles que deixaram o banco (Exited)?
+
+**Como é a distribuição dos salários estimados (EstimatedSalary) dos clientes? Existem faixas salariais específicas que se destacam?
+
+**Qual é a proporção de clientes que deixaram o banco (Exited)? Existem fatores específicos que contribuem para a saída dos clientes?
+
+**Como a distribuição dos clientes varia entre os diferentes países (France, Germany, Spain)? Existem diferenças nos comportamentos dos clientes com base no país de residência?
+
+**Qual é a proporção de clientes do sexo feminino (Female) e masculino (Male) no conjunto de dados? Existem diferenças significativas entre os comportamentos de gênero dos clientes?
+
+**Como o número de produtos (NumOfProducts) se relaciona com a ativação do membro (IsActiveMember)? Existem clientes com mais produtos que são menos ativos ou vice-versa?
